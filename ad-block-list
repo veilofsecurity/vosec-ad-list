@@ -11,7 +11,3 @@ ads.tapdaq.com
 tyjr-cn-zhangjiakou.aliyun.com
 prod.pazu.cloud
 v.kidoz.net
-#
-# Allow
-@@||log-ingestion.samsungacr.com^$important
-@@||lcprd1.samsungcloudsolution.net^$important
