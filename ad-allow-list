@@ -1,0 +1,3 @@
+# Allow
+@@||log-ingestion.samsungacr.com^$important
+@@||lcprd1.samsungcloudsolution.net^$important
