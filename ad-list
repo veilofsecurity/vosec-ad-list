@@ -1,0 +1,17 @@
+# Block
+ingest.vungle.com
+config.ads.vungle.com
+dsp.api.vungle.com
+params.prod.mwx.ext.mobilityware.com
+mobilityware.helpshift.com
+api.prod.mwx.ext.mobilityware.com
+et.kissmetrics.com
+conversion.datasavannah.com
+ads.tapdaq.com
+tyjr-cn-zhangjiakou.aliyun.com
+prod.pazu.cloud
+v.kidoz.net
+#
+# Allow
+@@||log-ingestion.samsungacr.com^$important
+@@||lcprd1.samsungcloudsolution.net^$important
