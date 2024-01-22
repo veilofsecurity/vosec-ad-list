@@ -1,3 +1,7 @@
 # Allow
-||log-ingestion.samsungacr.com^
-||lcprd1.samsungcloudsolution.net^
+@@||log-ingestion.samsungacr.com^$important
+@@||lcprd1.samsungcloudsolution.net^$important
+@@||assets.micpn.com^$important
+@@||urldefense.com^$important
+@@||analytics.plex.tv^$important
+@@||3001.scriptcdn.net^$important
